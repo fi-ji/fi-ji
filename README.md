@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="img.png" width="1400" height="425" />
+</p>
+
 ### Hi there 👋
 
 <!--
