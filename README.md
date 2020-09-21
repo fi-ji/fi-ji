@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/57771443/93724092-6e2ef180-fba4-11ea-954d-b888890943f6.png" width="838" height="254" />
+    <img src="https://user-images.githubusercontent.com/57771443/93724092-6e2ef180-fba4-11ea-954d-b888890943f6.png" width="838"" />
 </p>
 
-## **Hi there 👋**
+## Hi there 👋
 
 
 ### Languages and Tools:
@@ -19,16 +19,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="fidanhajiyeva | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="fidanhajiyeva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fidanhajiyeva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="fidanhajiyeva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 [gmail]: mailto:fidangadjiyeva@gmail.com
 [twitter]: https://twitter.com/fidankoroghlu
