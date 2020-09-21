@@ -31,7 +31,7 @@
 | [Cat Energy](https://1482853-cat-energy.vercel.app) | An online store that specializes in fitness food for cats. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
 | [Gllacy-Shop](https://fi-ji.github.io/1482853-gllacy-28) | An e-commerce store that sells homemade ice-cream. | HTML, CSS, Vanilla JavaScript (ES5) |
 | [Device](https://fi-ji.github.io/1482853-device-28) | An e-commerce website that sells tech-gadgets. | HTML, CSS, Vanilla JavaScript (ES5) |
-| [To Do List](https://fi-ji.github.io/to-do-list) | A simple to-do list web app that allows users to add new/delete items and cross off completed items. | HTML, CSS, jQuery |
+| [To-Do List](https://fi-ji.github.io/to-do-list) | A simple to-do list web app that allows users to add new/delete items and cross off completed items. | HTML, CSS, jQuery |
 
 ### Connect with me:
 
