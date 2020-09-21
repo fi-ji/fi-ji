@@ -29,7 +29,7 @@
 | [Patatap Clone](https://fi-ji.github.io/patatap-clone) | Basically a small clone of https://patatap.com. The keyboard can be used to produce sounds and animations. | Canvas, Paper.js, Howler.js |
 | [RGB Color Guessing Game](https://fi-ji.github.io/RGB-color-guessing-game) | A color guessing game where players guess the color that corresponds to an RGB code. | HTML, CSS, Vanilla JavaScript (ES6) |
 | [Cat Energy](https://1482853-cat-energy.vercel.app) | An online store that specializes in fitness food for cats. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
-| [Gllacy-Shop](https://fi-ji.github.io/1482853-gllacy-28) | An e-commerce store that sells handmade ice-cream. | HTML, CSS, Vanilla JavaScript (ES5) |
+| [Gllacy-Shop](https://fi-ji.github.io/1482853-gllacy-28) | An e-commerce store that sells homemade ice-cream. | HTML, CSS, Vanilla JavaScript (ES5) |
 | [Device](https://fi-ji.github.io/1482853-device-28) | An e-commerce website that sells tech-gadgets. | HTML, CSS, Vanilla JavaScript (ES5) |
 | [To Do List](https://fi-ji.github.io/to-do-list) | A simple to-do list web-app that allows users to add new/delete items and cross off completed items. | HTML, CSS, jQuery |
 
