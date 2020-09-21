@@ -4,6 +4,7 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I’m an English major graduate turned Front-end developer after discovering my passion for coding. When it comes to my work, I’m a perfectionist, and I don’t let a single detail slip past me.
 
 ### Languages and Tools:
 
@@ -44,18 +45,3 @@
 [twitter]: https://twitter.com/fidankoroghlu
 [instagram]: https://www.instagram.com/fidankoroghlu
 [linkedin]: https://www.linkedin.com/in/fidanhajiyeva
-
-<!--
-**fi-ji/fi-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
