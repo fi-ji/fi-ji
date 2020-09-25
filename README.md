@@ -26,7 +26,7 @@ I’m an English major graduate turned Front-end developer after discovering my 
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [Keksobooking](#) | A service for placing ads to rent real estate in the center of Tokyo. Users are given the opportunity to view or post ads. | Vanilla JavaScript (ES6) |
+| [Keksobooking](https://fi-ji.github.io/1482853-keksobooking-21) | A service for placing ads to rent real estate in the center of Tokyo. Users are given the opportunity to view or post ads. | Vanilla JavaScript (ES6) |
 | [Patatap Clone](https://fi-ji.github.io/patatap-clone) | Basically a small clone of https://patatap.com. The keyboard can be used to produce sounds and animations. | Canvas, Paper.js, Howler.js |
 | [RGB Color Guessing Game](https://fi-ji.github.io/RGB-color-guessing-game) | A color guessing game where players guess the color that corresponds to an RGB code. | HTML, CSS, Vanilla JavaScript (ES6) |
 | [Cat Energy](https://1482853-cat-energy.vercel.app) | An online store that specializes in fitness food for cats. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
