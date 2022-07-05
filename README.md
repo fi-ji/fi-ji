@@ -2,7 +2,7 @@
     <img src="https://user-images.githubusercontent.com/57771443/93724092-6e2ef180-fba4-11ea-954d-b888890943f6.png" width="838"" />
 </p>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+## Hi there!
 
 I’m an English major graduate turned Front-end developer after discovering my passion for coding. When it comes to my work, I’m a perfectionist, and I don’t let a single detail slip past me.
 
