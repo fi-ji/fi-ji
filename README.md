@@ -35,9 +35,7 @@ I’m an English major graduate turned Front-end developer after discovering my 
 ### Connect with me:
 
 [<img align="left" alt="fidanhajiyeva's email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="fidanhajiyeva's twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fidanhajiyeva's linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="fidanhajiyeva's instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [gmail]: mailto:fidangadjiyeva@gmail.com
 [linkedin]: https://www.linkedin.com/in/fidanhajiyeva
