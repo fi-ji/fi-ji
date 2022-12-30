@@ -40,6 +40,4 @@ I’m an English major graduate turned Front-end developer after discovering my 
 [<img align="left" alt="fidanhajiyeva's instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [gmail]: mailto:fidangadjiyeva@gmail.com
-[twitter]: https://twitter.com/fidankoroghlu
-[instagram]: https://www.instagram.com/fidankoroghlu
 [linkedin]: https://www.linkedin.com/in/fidanhajiyeva
